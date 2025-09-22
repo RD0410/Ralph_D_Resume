@@ -1,0 +1,17 @@
+- name: Masters of Science in Information Science
+  university: University of Arizona, Tucson, USA
+  # location: 
+  # more: with Thesis # Optional field, if you want to add a non-standard line.
+  # link: https://... # Optional field, include a link to your project.
+  date: 2024- 2026
+  gpa: 3.7 / 4.00 (current)
+  details: >
+    Coursework: Neural Networks, Adv. ML and Applications, Applied NLP, Data Visualization & Analytics, Database and Cloud Fundamentals 
+
+- name: Bachelors in Computer Engineering
+  university: Mumbai University, Mumbai, India
+  # location: Ankara, TR
+  date: 2019 - 2023
+  gpa : 3.47 / 4.00
+  details: >
+    Coursework: Data Structures and Algorithms, DBMS, Operating Systems, Computer Networks, Software Engineering, Web Technologies, Microprocessors, Object Oriented Programming
