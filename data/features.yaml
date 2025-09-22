@@ -1,0 +1,77 @@
+about:
+  name: Ralph Dsouza
+  tagline: Data Analyst
+  phone: "+1-520-244-9825"
+  email: ralphdsouza@arizona.edu
+  links:
+    - title: /in/ralphdsouza
+      url: https://www.linkedin.com/in/ralph-dsouza-633291246/
+      icon: fab fa-linkedin
+    - title: RD0410
+      url: https://github.com/RD0410
+      icon: fab fa-github
+  details: |
+    Entry-level data analyst with a CS foundation who enjoys turning messy data into clear stories. I work in Python, SQL, and R, and I’ve built dashboards, modeled KPIs, and run plenty of EDA. I’m currently pursuing an M.S. in Information Science (Aug 2024–May 2026) and I’m looking for roles where I can translate data into useful recommendations and automate reporting.
+
+
+skills:
+  - groupName: Analytics & Programming
+    list:
+      - Python (Pandas, NumPy), R, PHP, JavaScript
+      
+
+  - groupName: Visualization & BI
+    list:
+      - Plotly, matplotlib, seaborn; Power BI, Tableau
+
+  - groupName: Data Platforms & Workflow
+    list:
+      - SQL (MySQL, PostgreSQL), MongoDB; Excel (Power Query, Power Pivot); Git, Docker; Web foundations - HTML, CSS
+
+interests:
+  - Data Science
+  - AI Applications
+  - Optimization Problems
+
+languages:
+  - name: Hindi, Marathi  
+    level: Native
+
+  - name: English
+    level: Professional
+    certificates:
+       - "IELTS: 7.5 - 2023"
+
+# This will use the default widget: "details-list"
+# awards:
+#   - title: "Tübitak - Graduation Project"
+#     date: "2017"
+#     subtitle: "A Decision Support System for 3D Cutting Problem"
+#     #details: |
+#     #   - add more here if you like to.
+#     #   - or just comment out/delete the field.
+#     links:
+#       - title: example
+#         url: https://mertbakir.gitlab.io
+#         icon: fas fa-bolt
+#         prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+#       - title: second link.
+#         url: https://esdfdsfdsf
+#         icon: "-" # you can get rid of the icon by entering dummy text
+#         prefix: "omg"
+
+certificates:
+  - title: "The Complete Python Bootcamp"
+    subtitle: Udemy
+    date: "2022"
+    link: https://udemy.com/course/complete-python-bootcamp/# This link will be on title level.
+
+  - title: "The Ultimate MySQL Bootcamp"
+    subtitle: Udemy
+    date: "2023"
+    link: https://udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/
+
+  - title: "Tableau A-Z: Hands-On Tableau Training for Data Science"
+    subtitle: Udemy
+    date: "2024"
+    link: https://www.udemy.com/course/tableau-2021-a-z-master-tableau-for-data-science-and-bi/?utm_campaign=Search_DSA_Alpha_Prof_la.EN_cc.US&utm_source=google&utm_medium=paid-search&portfolio=USA&utm_audience=mx&utm_tactic=nb&utm_term=&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=21161092028&gbraid=0AAAAADROdO0kGWYRNTtLkid9dvfTJtqtv&gclid=Cj0KCQjwxL7GBhDXARIsAGOcmIOmzuhrJLTpEIyemV_fY5RY3D87mn1o80YJcvKgnC9-dWPQCBwHEPEaAr3mEALw_wcB&couponCode=IND21PM

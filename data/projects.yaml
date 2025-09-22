@@ -1,0 +1,20 @@
+projects:
+- title: "Decoding E-Commerce: Trends and Insights"
+  subtitle: "Data Visualization & Analytics using R"
+  date: "(Oct 2024 to Nov 2024)"
+  details: |
+    - Analyzed 100K+ transactions (2019–2022) to evaluate customer behavior, seasonality, and profitability across categories/regions.
+    - Feature engineering for sales totals, profit margins, seasonal segmentation using R (tidyverse, dplyr, ggplot2, plotly).
+    - Built interactive visualizations; recommended targeted promotions and discount thresholds based on seasonal peaks and margin impact.
+
+- title: "RetailPulse: KPI Dashboard"
+  subtitle: "SQL, PostgreSQL, dbt, Power BI"
+  date: "(May 2025 – June 2025)"
+  
+  details: |
+    - Modeled sales data into a simple star schema with dbt and created KPI views (AOV, repeat purchase, retention, YoY/MoM).
+    - Built a Power BI dashboard with drill-downs and scheduled refresh; indexed/partitioned key tables to speed refreshes and reduce manual reporting.
+  # links:
+  # - title: Available in GitLab
+  #   url: https://gitlab.com/mertbakir/resume-a4
+  #   icon: fab fa-gitlab
